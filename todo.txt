@@ -1,0 +1,2 @@
+- Update README in package to have structure
+- Add unit tests

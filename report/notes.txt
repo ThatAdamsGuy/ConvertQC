@@ -1,0 +1,4 @@
+Steps toward ensuring output script follows expected output
+Write script including all possible inputs (doesn't have to be sensical)
+
+DEMO - Couple mins background

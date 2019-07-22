@@ -1,0 +1,9 @@
+Arguments
+- initially used sys.argv and a manual help message. Felt there was a better way.
+- Found argparse, handles help message automatically and processes correctly.
+
+Docstring
+- Basically the explanation / help of a function.
+
+- REF: https://legacy.python.org/dev/peps/pep-0257/
+- Additionally, see PEP8 for Style Guides

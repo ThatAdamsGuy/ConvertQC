@@ -1,0 +1,8 @@
+
+
+This is a challenging project to explain, especially from the physics side.  It was not clear for quite a while that you were actually parsing the code for a program designed for one simulator, in order to generate code for the other simulator, or what the benefits of this transfer really were.  In the technical work, you are generally making good progress on translating from one simulation environment to another.  If the intension is to be translating in both directions then it may be worth considering if a common description format could be used and/or some mechanism for visualising the generated circuits.  This would make it a lot easier to understand and to adapt to different simulations, but complexities in the code may make this difficult.  Otherwise the project looks like it is coming together fine and should be useful when complete.
+
+
+- Introspection tools
+- Python Inspect
+ 

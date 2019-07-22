@@ -1,0 +1,78 @@
+ANALYSIS
+
+Taking into account the problem and what you learned from the background work, what was your analysis of the problem? How did your analysis help to decompose the problem into the main tasks that you would undertake? Were there alternative approaches? Why did you choose one approach compared to the alternatives? **
+
+There should be a clear statement of the objectives of the work, which you will evaluate at the end of the work. 
+
+In most cases, the agreed objectives or requirements will be the result of a compromise between what would ideally have been produced and what was determined to be possible in the time available. A discussion of the process of arriving at the final list is usually appropriate.
+
+As mentioned in the lectures, think about possible security issues for the project topic. Whilst these might not be relevant for all projects, do consider if there are relevant for your project. Where there are relevant security issues, discuss how they will this affect the work that you are doing. Carry forward this discussion into relevant areas for design, implementation and testing.
+
+DESIGN
+
+You should concentrate on the more important aspects of the design. It is essential that an overview is presented before going into detail. As well as describing the design adopted it must also explain what other designs were considered and why they were rejected.The design should describe what you expected to do, and might also explain areas that you had to revise after some investigation.Typically, for an object-oriented design, the discussion will focus on the choice of objects and classes and the allocation of methods to classes. The use made of reusable components should be described and their source referenced. Particularly important decisions concerning data structures usually affect the architecture of a system and so should be described here.How much material you include on detailed design and implementation will depend very much on the nature of the project. It should not be padded out. Think about the significant aspects of your system. For example, describe the design of the user interface if it is a critical aspect of your system, or provide detail about methods and data structures that are not trivial. Do not spend time on long lists of trivial items and repetitive descriptions. If in doubt about what is appropriate, speak to your supervisor. You should also identify any support tools that you used. You should discuss your choice of implementation tools - programming language, compilers, database management system, program development environment, etc.Some example sub-sections may be as follows, but the specific sections are for you to define. 
+
+IMPLEMENTATION
+
+The implementation should discuss any issues you encountered as you tried to implement your design. During the work, you might have found that elements of your design were unnecessary or overly complex; perhaps third-party libraries were available that simplified some of the functions that you intended to implement. If things were easier in some areas, then how did you adapt your project to take account of your findings?
+
+It is more likely that things were more complex than you first thought. In particular, were there any problems or difficulties that you found during implementation that you had to address? Did such problems simply delay you or were they more significant?
+
+You can conclude this section by reviewing the end of the implementation stage against the planned requirements. 
+
+
+
+TESTING
+
+Detailed descriptions of every test case are definitely not what is required here. What is important is to show that you adopted a sensible strategy that was, in principle, capable of testing the system adequately even if you did not have the time to test the system fully.
+
+Provide information in the body of your report and the appendix to explain the testing that has been performed. How does this testing address the requirements and design for the project?
+
+How comprehensive is the testing within the constraints of the project?  Are you testing the normal working behaviour? Are you testing the exceptional behaviour, e.g. error conditions? Are you testing security issues if they are relevant for your project? 
+
+Have you tested your system on ``real users''? For example, if your system is supposed to solve a problem for a business, then it would be appropriate to present your approach to involve the users in the testing process and to record the results that you obtained. Depending on the level of detail, it is likely that you would put any detailed results in an appendix.
+
+Whilst testing with ``real users'' can be useful, don't see it as a way to shortcut detailed testing of your own. Think about issues discussed in the lectures about until testing, integration testing, etc. User testing without sensible testing of your own is not a useful activity.
+
+The following sections indicate some areas you might include. Other sections may be more appropriate to your project. 
+
+\section{Overall Approach to Testing}
+
+\section{Automated Testing}
+
+\subsection{Unit Tests}
+
+\subsection{User Interface Testing}
+
+\subsection{Stress Testing}
+
+\subsection{Other types of testing}
+
+\section{Integration Testing}
+
+\section{User Testing}
+
+
+
+EVALUATION
+
+Examiners expect to find a section addressing questions such as:
+
+\begin{itemize}
+   \item Were the requirements correctly identified? 
+   \item Were the design decisions correct?
+   \item Could a more suitable set of tools have been chosen?
+   \item How well did the software meet the needs of those who were expecting to use it?
+   \item How well were any other project aims achieved?
+   \item If you were starting again, what would you do differently?
+\end{itemize}
+
+Other questions can be addressed as appropriate for a project. 
+
+The questions are an indication of issues you should consider. They are not intended as a specification of a list of sections.
+
+The evaluation is regarded as an important part of the project report; it should demonstrate that you are capable not only of carrying out a piece of work but also of thinking critically about how you did it and how you might have done it better. This is seen as an important part of an honours degree. 
+
+There will be good things in the work and aspects of the work that could be improved. As you write this section, identify and discuss the parts of the work that went well and also consider ways in which the work could be improved. 
+
+In the latter stages of the module, we will discuss the evaluation. That will probably be around week 9, although that differs each year. 
